@@ -86,7 +86,224 @@ print("\nFinal Solution:", solution)
 
 ```
 ### OUTPUT
+```
+Score: 574 Solution : z@cRpCOL^FS[}|GfA}}YA`U
+Score: 532 Solution : z@cRpCOL^F)[}|GfA}}YA`U
+Score: 504 Solution : z@cRpCOh^F)[}|GfA}}YA`U
+Score: 490 Solution : z@cRpCOh^T)[}|GfA}}YA`U
+Score: 476 Solution : z@cRpC]h^T)[}|GfA}}YA`U
+Score: 465 Solution : z@cRpC]h^T)[j|GfA}}YA`U
+Score: 447 Solution : z@cRpC]h^r)[j|GfA}}YA`U
+Score: 421 Solution : z@cRpC]h^r)[j|ifA}}YA`U
+Score: 416 Solution : u@cRpC]h^r)[j|ifA}}YA`U
+Score: 406 Solution : u@cRpC]h^r)[j|ifAs}YA`U
+Score: 373 Solution : u@cRpC]h^r)[j|ifAs}Yz`U
+Score: 346 Solution : (@cRpC]h^r)[j|ifAs}Yz`U
+Score: 332 Solution : (NcRpC]h^r)[j|ifAs}Yz`U
+Score: 316 Solution : (NsRpC]h^r)[j|ifAs}Yz`U
+Score: 305 Solution : (Ns]pC]h^r)[j|ifAs}Yz`U
+Score: 305 Solution : (Ns]pC]h^r)[j|afAs}Yz`U
+Score: 299 Solution : (Ns]pC]h^r)[j|afAs}kz`U
+Score: 293 Solution : (Ns]pC]h^r)[j|afAs}kh`U
+Score: 291 Solution : (Ps]pC]h^r)[j|afAs}kh`U
+Score: 258 Solution : (Ps]pC]h^r)[j|afvs}kh`U
+Score: 257 Solution : (Ps]pC]h^r)8j|afvs}kh`U
+Score: 243 Solution : (Ps]pC]h^r)8j|afvsokh`U
+Score: 206 Solution : (Ps]ph]h^r)8j|afvsokh`U
+Score: 205 Solution : (Ps]ph]h^r)8j|afvsnkh`U
+Score: 171 Solution : (rs]ph]h^r)8j|afvsnkh`U
+Score: 160 Solution : (rshph]h^r)8j|afvsnkh`U
+Score: 158 Solution : (rshph]h^r)8j|apvsnkh`U
+Score: 158 Solution : (rshphih^r)8j|apvsnkh`U
+Score: 158 Solution : (rshph]h^r)8j|apvsnkh`U
+Score: 154 Solution : (rshph]h^r)8j|apvsnkh`q
+Score: 154 Solution : (ruhph]h^r)8j|apvsnkh`q
+Score: 153 Solution : (ruhph]h^r)8j|apvsnkh`p
+Score: 151 Solution : (ruhph]h^r)8j|cpvsnkh`p
+Score: 151 Solution : (rujph]h^r)8j|cpvsnkh`p
+Score: 151 Solution : (rujph]h^r)8j|cpvsnkh`p
+Score: 151 Solution : (rujph]hdr)8j|cpvsnkh`p
+Score: 151 Solution : (rujph]hdr)8j|cpvsnkh`p
+Score: 147 Solution : (rujph]hdr)8j|cpvsdkh`p
+Score: 142 Solution : (rujph]hdr)Uj|cpvsdkh`p
+Score: 142 Solution : Zrujph]hdr)Uj|cpvsdkh`p
+Score: 141 Solution : Zrujph]hdr)Tj|cpvsdkh`p
+Score: 138 Solution : Zrujph]hdr)Tj|cpvsgkh`p
+Score: 137 Solution : Zrujph]hdr)Tj|cpvsg`h`p
+Score: 118 Solution : Grujph]hdr)Tj|cpvsg`h`p
+Score: 112 Solution : Grujph]hdr)Tjvcpvsg`h`p
+Score: 112 Solution : Grujph]hdr)Tjvcpvsg`h`p
+Score: 103 Solution : Grujph]hdr)Tjvcpvjg`h`p
+Score: 94 Solution : Grujph]hdr)Kjvcpvjg`h`p
+Score: 94 Solution : Grujph]hdr)Kjvcpvjg`h`p
+Score: 92 Solution : Grujph]hdr)Kjvcpvjg`h`\
+Score: 92 Solution : Grujph]hdr)Kjvcpvjg`h`\
+Score: 92 Solution : Grujph]hdr)Kjvcpvjg`h`\
+Score: 88 Solution : Grujphehdr)Kjvcpvjg`h`\
+Score: 84 Solution : Crujphehdr)Kjvcpvjg`h`\
+Score: 84 Solution : Crujphehdr)Kjvcpvjg`h`\
+Score: 83 Solution : Crujpheh_r)Kjvcpvjg`h`\
+Score: 83 Solution : Crujpheh_r)Kjvcpvjg`h`\
+Score: 83 Solution : ?rujpheh_r)Kjvcpvjg`h`\
+Score: 83 Solution : ?rujphah_r)Kjvcpvjg`h`\
+Score: 82 Solution : ?rujphah_q)Kjvcpvjg`h`\
+Score: 76 Solution : ?rujjhah_q)Kjvcpvjg`h`\
+Score: 75 Solution : ?ruijhah_q)Kjvcpvjg`h`\
+Score: 74 Solution : Bruijhah_q)Kjvcpvjg`h`\
+Score: 68 Solution : Bruijhah_q)Kjvcphjg`h`\
+Score: 68 Solution : Bruijhah_q)Kjvcphjg`h`\
+Score: 65 Solution : Bruijhah_q)Kjvcphjggh`\
+Score: 64 Solution : Bruijhah_q)Kjvcphjggs`\
+Score: 62 Solution : Bruijhah_q)Kjvcphjggs`^
+Score: 58 Solution : Bruijhah_m)Kjvcphjggs`^
+Score: 58 Solution : Bruijhah_m)Kjvcphjggs`^
+Score: 52 Solution : Bruijhah_m)Kjvcphjggs`f
+Score: 50 Solution : Bruijhah_m)Ijvcphjggs`f
+Score: 49 Solution : Bruijhah_m)Ijvcphjggj`f
+Score: 47 Solution : Bruihhah_m)Ijvcphjggj`f
+Score: 47 Solution : Bruihhah_m)Ijvcphjggj`f
+Score: 47 Solution : Bruidhah_m)Ijvcphjggj`f
+Score: 44 Solution : Bruidhah_m)Ijvcpkjggj`f
+Score: 42 Solution : Bruidhah_m)Ijvcjkjggj`f
+Score: 40 Solution : Bruidhaham)Ijvcjkjggj`f
+Score: 36 Solution : Bruidhaham)Ijvcjkjggn`f
+Score: 35 Solution : Bruidhaham)Ijvfjkjggn`f
+Score: 35 Solution : Bruidhaham)Ijvfjkjggn`f
+Score: 35 Solution : Bruidhaham)Ijvfjkjggn`f
+Score: 35 Solution : Bruidhaham)Ijvfnkjggn`f
+Score: 30 Solution : Bruidhaham$Ijvfnkjggn`f
+Score: 30 Solution : Bruidhaham$Ijvfnkjggn`f
+Score: 30 Solution : Bruidhaham$Ijvfjkjggn`f
+Score: 28 Solution : Bruidhaham$Ijvfjkjggndf
+Score: 27 Solution : Aruidhaham$Ijvfjkjggndf
+Score: 27 Solution : Aruidhaham$Ijvfnkjggndf
+Score: 26 Solution : Aruidhaham$Ijvfnkjgdndf
+Score: 26 Solution : Aruidhaham$Ijvfnkjgdndf
+Score: 25 Solution : Aruidhaham$Ijvfnkjgdnde
+Score: 21 Solution : Aruidhaham$Invfnkjgdnde
+Score: 21 Solution : Aruidhaham$Inrfnkjgdnde
+Score: 21 Solution : Aruidhaham$Inrfnkjgdnde
+Score: 21 Solution : Aruidheham$Inrfnkjgdnde
+Score: 20 Solution : Aruidheham$Inufnkjgdnde
+Score: 20 Solution : Aruidheham$Inufnkjgdnde
+Score: 19 Solution : Aruidhbham$Inufnkjgdnde
+Score: 18 Solution : Aruidhbham$Inufnkigdnde
+Score: 18 Solution : Aruidhbjam$Inufnkigdnde
+Score: 18 Solution : Aruidhbjam$Inufnkigdnde
+Score: 18 Solution : Aruihhbjam$Inufnkigdnde
+Score: 16 Solution : Aruifhbjam$Inufnkigdnde
+Score: 16 Solution : Aruifhbham$Inufnkigdnde
+Score: 15 Solution : Aruifhbham$Inufnkigdnce
+Score: 15 Solution : Aruifhbham$Inufnkigdnce
+Score: 15 Solution : Aruifhbham$Inufnkigdnce
+Score: 14 Solution : Aruifhbham$Inufmkigdnce
+Score: 13 Solution : Aruifhcham$Inufmkigdnce
+Score: 13 Solution : Arsifhcham$Inufmkigdnce
+Score: 12 Solution : Arsifhcham$Inuemkigdnce
+Score: 12 Solution : Arsifhcham$Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Inuemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 9 Solution : Arsifhcham!Insemkigdnce
+Score: 8 Solution : Arsifhcham!Insemligdnce
+Score: 8 Solution : Arsifhcham!Insemligdnce
+Score: 8 Solution : Arsifhcham!Insemligdnce
+Score: 8 Solution : Arsifhcham!Insemligdnce
+Score: 8 Solution : Arsifhchak!Insemligdnce
+Score: 8 Solution : Arsifhchak!Insekligdnce
+Score: 7 Solution : Arsifhchak!Inselligdnce
+Score: 7 Solution : Arsifhchak!Inselligdnce
+Score: 7 Solution : Arsifhchak!Inselligdnce
+Score: 7 Solution : Arsifhchak!Inselligdnce
+Score: 7 Solution : Arsifjchak!Inselligdnce
+Score: 7 Solution : Arsifjchak!Inselligdnce
+Score: 7 Solution : Arsifjcham!Inselligdnce
+Score: 7 Solution : Arsifjcham!Inselligfnce
+Score: 7 Solution : Arsifjcham!Inselligfnce
+Score: 7 Solution : Arsifjcham!Inselligfnce
+Score: 7 Solution : Arsifjcham!Inselligfnce
+Score: 7 Solution : Arsifjcham!Inselligfnce
+Score: 6 Solution : Arsifjcham Inselligfnce
+Score: 6 Solution : Arsifjcham Inselligfnce
+Score: 6 Solution : Arsifjcham Inselligfnce
+Score: 6 Solution : Arsifjcham Inselligfnce
+Score: 5 Solution : Arsifjcham Intelligfnce
+Score: 5 Solution : Arsifjcham Intelligfnce
+Score: 5 Solution : Arsifjcham Intelligfnce
+Score: 4 Solution : Arsifjciam Intelligfnce
+Score: 4 Solution : Arsifjciam Intelligfnce
+Score: 4 Solution : Arsifjciam Intelligfnce
+Score: 4 Solution : Aruifjciam Intelligfnce
+Score: 4 Solution : Aruifjciam Intelligfnce
+Score: 3 Solution : Aruifjciam Intelligence
+Score: 3 Solution : Aruifjciam Intelligence
+Score: 3 Solution : Aruifjciam Intelligence
+Score: 3 Solution : Aruifjciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Aruifhciam Intelligence
+Score: 3 Solution : Arsifhciam Intelligence
+Score: 3 Solution : Arsifhciam Intelligence
+Score: 3 Solution : Arsifhciam Intelligence
+Score: 3 Solution : Arsifhciam Intelligence
+Score: 3 Solution : Arsifhciam Intelligence
+Score: 3 Solution : Arsifjciam Intelligence
+Score: 3 Solution : Arsifjciam Intelligence
+Score: 3 Solution : Arsifjciam Intelligence
+Score: 3 Solution : Arsifjciam Intelligence
+Score: 3 Solution : Arsifjciam Intelligence
+Score: 2 Solution : Arsifjcial Intelligence
+Score: 2 Solution : Arsifjcial Intelligence
+Score: 2 Solution : Arsifjcial Intelligence
+Score: 2 Solution : Arsifhcial Intelligence
+Score: 2 Solution : Arsifhcial Intelligence
+Score: 2 Solution : Arsifhcial Intelligence
+Score: 2 Solution : Arsifhcial Intelligence
+Score: 2 Solution : Arsifhcial Intelligence
+Score: 2 Solution : Aruifhcial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Aruificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 1 Solution : Arsificial Intelligence
+Score: 0 Solution : Artificial Intelligence
 
+Final Solution: Artificial Intelligence
+```
 
 ### RESULT
 The Simple Hill Climbing Algorithm was successfully implemented and the target string was generated by mutating one character at each iteration.
